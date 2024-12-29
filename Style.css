@@ -1,0 +1,277 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.Container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a{
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    
+  
+}
+.container1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.back-button {
+    position: absolute;
+    top: 20px;  
+    left: 20px; 
+}
+.container2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+/* -- - - - - - - - - -  */
+
+.Name {
+    display: flex;
+    justify-content: left;
+    font-size: 18px;
+gap: 145px  ;
+
+}
+.Name .info{
+    gap: 10px;
+}
+.Name .label-1{
+    margin-left: 200px
+}
+/* - - - - - - -- - - - - - - -  */
+.Last{
+    display: flex;
+    justify-content: left;
+    font-size: 18px;
+    gap: 150px;
+}
+.Last.infoLN{
+    gap: 10px;
+}
+.Last .label-2{
+    margin-left: 200px;
+} 
+/* - - - - - - - - - - - - - - - -  */
+.DOB{
+    display: flex;
+    justify-content: left;
+    font-size: 18px;
+    gap: 121px;
+}
+.DOB .infoDB{
+    gap: 10px;
+}
+.DOB .label-3{
+    margin-left: 200px;
+}
+/* - - - - - - - - - - - - -  */
+
+.EMAIL{
+    display: flex;
+    justify-content: left;
+    font-size: 18px;
+    gap: 173px;
+}
+.EMAIL .infoE{
+    gap: 10px;
+}
+.EMAIL .label-4{
+    margin-left: 200px;
+}
+/* --------------------------- */
+.MBN{
+    display: flex;
+    justify-content: left;
+    font-size: 18px;
+    gap: 101px;
+}
+.MBN .infoMBN{
+    gap: 10px;
+}
+.MBN .label-5{
+    margin-left: 200px;
+}
+/* - - - - - - - - -- - - --  */
+.containerG{
+    display: flex;
+    justify-content: left;
+    font-size: 18px;
+    gap: 180px;
+}
+.containerG .GND{
+    gap: 10px;
+}
+.containerG .labelG{
+    margin-left: 200px;
+}
+/* -- - - - - - - -- -  - --  */
+.Add {
+    display: flex;
+    justify-content: left;
+    font-size: 18px;
+    gap: 170px;
+}
+.Add .infoADD{
+    gap: 10px;
+}
+.Add .label-7{
+    margin-left: 200px;
+}
+/* - - - -- - -  - -- - - - - -  */
+.CITY{
+    display: flex;
+    justify-content: left;
+    font-size: 18px;
+    gap: 210px;
+}
+.CITY .infocity{
+    gap: 10px;
+}
+.CITY .label-8{
+    margin-left: 200px;
+}
+/* - - - - - - - - - - - - - -  */
+.PIN {
+    display: flex;
+    justify-content: left;
+    font-size: 18px;
+    gap: 170px;
+}
+.PIN .infopin{
+    gap: 10px;
+}
+.PIN .label-9{
+margin-left: 200px;
+}
+/* - - - - - - - - - -  -  */
+.STATE{
+    display: flex;
+    justify-content: left;
+    font-size: 18px;
+    gap: 200px;
+}
+.STATE .infostate{
+    gap: 10px;
+}
+.STATE .label-10{
+    margin-left: 200px;
+}
+/* - - - - - - - - - - - - - -  */
+.COUNTRY{
+    display: flex;
+    justify-content: left;
+    font-size: 18px;
+    gap: 167px;
+}
+.COUNTRY .infocountry{
+    gap: 10px;
+}
+.COUNTRY .label-11{
+    margin-left: 200px;
+}
+/* - - - - - - - - - - - - - -  */
+.HOBBIES{
+    display: flex;
+    justify-content: left;
+    font-size: 18px;
+    gap: 10px;
+    
+}
+
+
+.HOBBIES .label-12{
+    margin-left: 200px;
+    margin-right: 165px;
+    
+}
+.OTH{
+    margin-left: 455px;
+}
+/* - - - - - - - -  -- - - - - -  */
+.Q{
+    display: flex;
+    justify-content: left;
+    font: 18px;
+
+}
+.label-13{
+    margin-left: 200px;
+}
+.T{
+    margin-left: 130px;
+}
+.out{
+    display: flex;
+    justify-content: left;
+    
+    margin-left: 700px;
+}
+.C{
+    margin-left: 200px;
+}
+
+
+.Select{
+    margin-left: 450px;
+}
+.Applied {
+    margin-left: 200px;
+}
+
+.U{
+    margin-left: 200px;
+}
+.Img{
+    margin-left: 143px;
+}
+.I{
+    margin-left: 200px;
+}
+.sr{
+    display: flex;
+    justify-content: center;
+}
+/* - - - - - - - - - - - - - - - - - - - - - -  */
+.container10{
+    display: flex;
+    justify-content: center;
+}
+
+.em{
+    display: flex;
+    justify-content: left;
+margin-left: 550px;
+gap: 60px;
+}
+
+.pas{
+    display: flex;
+    justify-content: left;
+margin-left: 550px;
+gap: 38px;
+}
+.subres{
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+    margin-right: 100px;
+}
